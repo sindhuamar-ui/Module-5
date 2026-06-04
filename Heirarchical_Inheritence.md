@@ -95,4 +95,7 @@ d.showEmployee()
 ```
 ## Sample Output
 <img width="1257" height="529" alt="image" src="https://github.com/user-attachments/assets/34730865-88d3-46dc-b9a9-2107af80c6d8" />
+ 
+## Result
+Thus the program that uses Hierarchical Inheritance to input and display Employee and Patient details hase been executed successfully.
 
